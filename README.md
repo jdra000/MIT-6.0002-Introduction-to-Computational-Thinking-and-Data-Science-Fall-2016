@@ -2,3 +2,7 @@
 ### Problem Set 2
 For this problem I implemented Dijikstra so I could practice another algorithm besides DFS and BFS. The graph is represented as an Adjacency List and the function is subject to a maximum time outdoor constraint.
 The original problem has an extra total_time constraint. I am looking forward to add this implementation soon.
+### Problem Set 4
+Simulating the Spread of Disease and Bacteria Population
+We put in practice a couple of simulations to explore the effect of introducing antibiotics to the
+bacteria population.
